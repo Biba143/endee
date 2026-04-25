@@ -30,3 +30,13 @@ frontend/*
 
 # DS Store
 .DS_Store
+
+# InsightAI
+insight-ai/__pycache__/
+insight-ai/**/__pycache__/
+insight-ai/**/*.pyc
+insight-ai/.env
+insight-ai/data/*
+!insight-ai/data/.gitkeep
+insight-ai/hero-app/node_modules/
+insight-ai/hero-app/.next/
